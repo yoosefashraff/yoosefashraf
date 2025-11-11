@@ -67,7 +67,7 @@ I mix design thinking with technical precision to deliver fast, scalable, and in
 > “I don’t just build products — I build experiences that connect design, code, and business.”
 
 🎯 I combine design intuition with a developer’s logic.  
-🧩 I’m AI-first — I build faster using tools like V0.dev & Cursor.  
+🧩 I’m AI-first — I build faster using tools like Cursor.  
 💼 I lead cross-functional teams to ship full-stack apps efficiently.  
 📍 Based in Egypt | Working globally 🌍  
 

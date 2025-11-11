@@ -1,9 +1,9 @@
-<h1 align="center"> I'm <a href="https://www.linkedin.com/in/youssefashrafofficial/">Youssef Ashraf</a></h1>
-<h3 align="center">AI-First Software Engineer | Technical Project Manager | Full-Stack Developer | Senior UI/UX Designer</h3>
+<h1 align="left"> I'm <a href="https://www.linkedin.com/in/youssefashrafofficial/">Youssef Ashraf</a></h1>
+<h3 align="left">AI-First Software Engineer | Technical Project Manager | Full-Stack Developer | Senior UI/UX Designer</h3>
 
-<p align="center">
-💡 I build end-to-end digital products — from brand identity and UI/UX to frontend, backend, and deployment.  
-I mix design thinking with technical precision to deliver fast, scalable, and intelligent solutions.
+<p align="left">
+I build end-to-end digital products — from brand identity and UI/UX to frontend, backend, and deployment.  
+I mix design thinking with technical precision to deliver fast, scalable, and intelligent solutions.💡
 </p>
 
 ---
